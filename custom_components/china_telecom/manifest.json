@@ -1,5 +1,5 @@
 {
-    "domain": "ha_china_telecom",
+    "domain": "china_telecom",
     "name": "China Telecom",
     "after_dependencies": ["http"],
     "documentation": "https://github.com/yizichangyin/ha_china_telecom",
