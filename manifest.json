@@ -2,7 +2,7 @@
     "域":"中国电信",
     "名称":"中国电信",
     "after_dependencies":["http"],
-    "文档":"https://github.com/AlexxIT/SonoffLAN",
+    "文档":"https://github.com/yizichangyin/ha_china_telecom",
     "iot_class":"cloud_polling",
     "版本":"0.1.0",
     "要求":[],
