@@ -1,13 +1,13 @@
 {
-    "域":"中国电信",
-    "名称":"中国电信",
-    "after_dependencies":["http"],
-    "文档":"https://github.com/yizichangyin/ha_china_telecom",
-    "iot_class":"cloud_polling",
-    "版本":"0.1.0",
-    "要求":[],
-    "图标":"mdi:script-text",
-    "依存关系":[],
-    "config_flow":正确,
-    "代码所有者":["@yourusername"]
+    "domain": "ha_china_telecom",
+    "name": "China Telecom",
+    "after_dependencies": ["http"],
+    "documentation": "https://github.com/yizichangyin/ha_china_telecom",
+    "iot_class": "cloud_polling",
+    "version": "v0.1.0",
+    "requirements": [],
+    "icon": "mdi:script-text",
+    "dependencies": [],
+    "config_flow": true,
+    "codeowners": ["@yourusername"]
 }
