@@ -7,7 +7,6 @@
     "iot_class": "cloud_polling",
     "version": "v0.1.0",
     "requirements": [],
-    "icon": "mdi:script-text",
     "dependencies": [],
     "integration_type": "hub",
     "config_flow": true,
