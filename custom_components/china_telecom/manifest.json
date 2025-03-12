@@ -3,7 +3,7 @@
     "name": "China Telecom",
     "after_dependencies": ["http"],
     "documentation": "https://github.com/yizichangyin/ha_china_telecom",
-    "issue_tracker": "https://github.com/yizichangyin/ha_china_telecom/issues"
+    "issue_tracker": "https://github.com/yizichangyin/ha_china_telecom/issues",
     "iot_class": "cloud_polling",
     "version": "v0.1.0",
     "requirements": [],
