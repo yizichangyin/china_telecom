@@ -9,5 +9,5 @@
     "icon": "mdi:script-text",
     "dependencies": [],
     "config_flow": true,
-    "codeowners": ["@yourusername"]
+    "codeowners": ["@yizichangyin"]
 }
